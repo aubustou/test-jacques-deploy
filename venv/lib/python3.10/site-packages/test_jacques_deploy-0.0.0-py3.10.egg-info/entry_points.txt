@@ -1,2 +1,0 @@
-[console_scripts]
-test-jacques-deploy = test_jacques_deploy:main
