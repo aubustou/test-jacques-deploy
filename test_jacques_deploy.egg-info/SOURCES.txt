@@ -1,7 +1,0 @@
-setup.py
-test_jacques_deploy.py
-test_jacques_deploy.egg-info/PKG-INFO
-test_jacques_deploy.egg-info/SOURCES.txt
-test_jacques_deploy.egg-info/dependency_links.txt
-test_jacques_deploy.egg-info/entry_points.txt
-test_jacques_deploy.egg-info/top_level.txt
