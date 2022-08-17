@@ -3,6 +3,7 @@ import time
 
 
 def main():
+    logging.basicConfig(level=logging.INFO)
     while True:
         logging.info("ça marche")
         time.sleep(3)
