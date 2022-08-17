@@ -1,9 +1,10 @@
+import logging
 import time
 
 
 def main():
     while True:
-        print("ça marche")
+        logging.info("ça marche")
         time.sleep(3)
 
 
